@@ -1,0 +1,29 @@
+.tIcon{
+     color: #BDB099;
+     font-size: 20px;
+     margin-left: 40px;
+     
+}
+.tIcon:hover{
+     transform: rotate(50deg);
+     transition: linear .3s;
+}
+
+.cIcon{
+     color: #BDB099;
+     font-size: 20px;
+     margin-right: 10px;
+}
+.cIcon:hover{
+     transform: rotate(50deg);
+     transition: linear .3s;
+}
+
+.pd-btn{
+     font-size: 16px;
+     margin-right: 14px;
+}
+
+.cycleIcon{
+     color:#1a1a1b ;
+}
